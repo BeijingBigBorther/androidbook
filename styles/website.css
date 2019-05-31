@@ -1,0 +1,13 @@
+.book-summary {
+    display: none!important;
+}
+.book-body {
+    left: 0!important;
+    width: 100vw!important;
+}
+.book-header {
+    display: none!important;
+}
+.navigation {
+	display: none!important;
+}
